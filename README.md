@@ -4,16 +4,6 @@
 
 **URL**: https://lovable.dev/projects/991ff61f-97ea-4175-8d14-15d7d1685dd7
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/991ff61f-97ea-4175-8d14-15d7d1685dd7) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
@@ -62,7 +52,14 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/991ff61f-97ea-4175-8d14-15d7d1685dd7) and click on Share -> Publish.
+Simply open Vercel and select project and deploy.
+Homepage
+![Screenshot 2025-06-24 013621](https://github.com/user-attachments/assets/dd6d6da4-fb08-412d-a70f-ced8b0a85b94)
+
+![Screenshot 2025-06-24 013650](https://github.com/user-attachments/assets/4375878e-da4c-42b0-945f-a5af157283da)
+
+![Screenshot 2025-06-24 013703](https://github.com/user-attachments/assets/e7e8bfa6-bd78-4c6e-8241-c6b0ddafca61)
+
 
 ## Can I connect a custom domain to my Lovable project?
 
